@@ -1,2 +1,2 @@
 # Atividade-Machine-Learning
-Repositório de machine learning.
+Squad 5 - Classificação de expressões faciais.
