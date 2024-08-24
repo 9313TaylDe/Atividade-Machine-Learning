@@ -8,32 +8,34 @@ Este projeto utiliza técnicas de Visão Computacional e Redes Neurais Convoluci
 
 ## Base de Dados
 
-A base de dados [Human Face Emotions](https://www.kaggle.com/datasets/sanidhyak/human-face-emotions)
- contém três pastas: Feliz, Triste e Bravo. Cada pasta contém cerca de 100 imagens de cada expressão mencionada. Esta base de dados pode ser utilizada para vários propósitos, incluindo classificação usando Redes Neurais Convolucionais e Visão Computacional.
+A base de dados [Human Face Emotions](https://www.kaggle.com/datasets/sanidhyak/human-face-emotions) contém três pastas: Feliz, Triste e Bravo. Cada pasta contém cerca de 100 imagens de cada expressão mencionada. Esta base de dados pode ser utilizada para vários propósitos, incluindo classificação usando Redes Neurais Convolucionais e Visão Computacional.
+
+Para tanto, foi utilizado uma base de dados editada conforme a necessidade proposta vista ao longo do tempo.
+ [Dataset](9313TaylDe/Atividade-Machine-Learning/src/data/link-base-dados.txt)
 
 
 ## Etapas do Projeto
 
-- [ ] **Coleta e Análise Exploratória dos Dados**
+- [X] **Coleta e Análise Exploratória dos Dados**
    - Coleta dos dados da base Human Face Emotions.
    - Análise exploratória dos dados para entender a distribuição e características das imagens.
 
-- [ ] **Pré-processamento dos Dados**
+- [X] **Pré-processamento dos Dados**
    - Limpeza e normalização das imagens.
    - Divisão dos dados em conjuntos de treino, validação e teste.
 
-- [ ] **Desenvolvimento do Modelo**
+- [X] **Desenvolvimento do Modelo**
    - Criação e treinamento de modelos utilizando Redes Neurais Convolucionais (CNN).
    - Avaliação dos modelos com métricas apropriadas.
 
-- [ ] **Validação e Teste do Modelo**
+- [X] **Validação e Teste do Modelo**
    - Validação cruzada para garantir a robustez do modelo.
    - Teste final com o conjunto de dados de teste.
 
-- [ ] **Implementação e Predição**
+- [X] **Implementação e Predição**
    - Implementação do modelo final.
    - Criação de um script para predições em novas imagens.
 
-- [ ] **Documentação e Relatórios**
+- [X] **Documentação e Relatórios**
    - Documentação do código e das metodologias utilizadas.
    - Criação de relatórios e visualizações dos resultados.
